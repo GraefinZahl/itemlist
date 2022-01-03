@@ -301,7 +301,7 @@
     },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
-    "usage": "!installedmods",
+    "usage": "!rimworld",
     "userLevel": "Anyone",
     "shortcut": false
   },
