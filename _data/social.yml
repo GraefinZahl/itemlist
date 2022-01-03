@@ -8,7 +8,7 @@ facebook:
 flickr:
 gitlab:
 github:
-instagram:
+instagram: graefin.zahl.gaming
 keybase:
 linkedin:
 pinterest:
@@ -18,16 +18,16 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: GraefinZahl
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: UCfJ9wSV87A8UbEM389et4bw # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+twitch: GraefinZahl
 tiktok:
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
   tumblr:
   pinterest:
