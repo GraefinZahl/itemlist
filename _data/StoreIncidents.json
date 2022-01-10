@@ -11,11 +11,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "rain",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "vomitrain",
 		"price": 650,
 		"karmatype": "Neutral"
@@ -26,11 +21,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "volcanicwinter",
-		"price": 3200,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
@@ -39,6 +29,11 @@
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "wandererjoins",
@@ -71,8 +66,18 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "madanimal",
+		"price": 200,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "psychicsoothe",
 		"price": 250,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ambrosiasprout",
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -117,17 +122,12 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 5000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "predators",
-		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -156,20 +156,10 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wear",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "sanctuary",
-		"price": 100000,
+		"price": 6000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 34
+	"total": 32
 }

@@ -16,7 +16,7 @@
       "abr": "ambrosia",
       "category": "Drogen",
       "defname": "Ambrosia",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "go-juice",
@@ -70,19 +70,19 @@
       "abr": "archotech-auge",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotech-arm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotech-bein",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "bionischesauge",
@@ -178,13 +178,13 @@
       "abr": "künstlichesherz",
       "category": "Prothetisch",
       "defname": "SimpleProstheticHeart",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "cochlea-implantat",
       "category": "Prothetisch",
       "defname": "CochlearImplant",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "power-kralle",
@@ -220,7 +220,7 @@
       "abr": "großeskulptur",
       "category": "Kunst",
       "defname": "SculptureLarge",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "gewaltigeskulptur",
@@ -244,7 +244,7 @@
       "abr": "königlichesbett",
       "category": "Möbel",
       "defname": "RoyalBed",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "intensivbett",
@@ -292,7 +292,7 @@
       "abr": "sessel",
       "category": "Möbel",
       "defname": "Armchair",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "nachttisch",
@@ -400,13 +400,13 @@
       "abr": "pokertisch",
       "category": "Möbel",
       "defname": "PokerTable",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "billardtisch",
       "category": "Möbel",
       "defname": "BilliardsTable",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "röhrenfernseher",
@@ -424,13 +424,13 @@
       "abr": "riesenflachbildfernseher",
       "category": "Entspannung",
       "defname": "MegascreenTelevision",
-      "price": 2475
+      "price": -10
     },
     {
       "abr": "teleskop",
       "category": "Entspannung",
       "defname": "Telescope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "eierkiste",
@@ -646,13 +646,13 @@
       "abr": "vanometrischeenergiezelle",
       "category": "Spezial",
       "defname": "VanometricPowerCell",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "unendlicherchemreaktor",
       "category": "Spezial",
       "defname": "InfiniteChemreactor",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "heizung",
@@ -1282,7 +1282,7 @@
       "abr": "schutzhelm",
       "category": "Kopfbedeckung",
       "defname": "Apparel_AdvancedHelmet",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "marine-helm",
@@ -1294,7 +1294,7 @@
       "abr": "recon-helm",
       "category": "Kopfbedeckung",
       "defname": "Apparel_ArmorHelmetRecon",
-      "price": 875
+      "price": -10
     },
     {
       "abr": "psycho-folienhelm",
@@ -1372,7 +1372,7 @@
       "abr": "plattenrüstung",
       "category": "Rüstung",
       "defname": "Apparel_PlateArmor",
-      "price": -10
+      "price": 792
     },
     {
       "abr": "schutzweste",
@@ -1396,7 +1396,7 @@
       "abr": "marine-rüstung",
       "category": "Rüstung",
       "defname": "Apparel_PowerArmor",
-      "price": -10
+      "price": 3392
     },
     {
       "abr": "recon-rüstung",
@@ -1636,19 +1636,19 @@
       "abr": "zielgerät:orbitalesbombardement",
       "category": "Hilfsmittel",
       "defname": "OrbitalTargeterBombardment",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "zielgerät:orbitalestrahlenwaffe",
       "category": "Hilfsmittel",
       "defname": "OrbitalTargeterPowerBeam",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "zielgerät:tornadogenerator",
       "category": "Hilfsmittel",
       "defname": "TornadoGenerator",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "grizzlybär",
@@ -1888,7 +1888,7 @@
       "abr": "alphabiber",
       "category": "Tiere",
       "defname": "Alphabeaver",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "schwein",
@@ -2062,7 +2062,7 @@
       "abr": "bildnis",
       "category": "Diverses",
       "defname": "Effigy",
-      "price": 178
+      "price": -10
     },
     {
       "abr": "opferflagge",
