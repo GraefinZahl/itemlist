@@ -33,7 +33,7 @@
     {
       "description": "Timmy bekommt einen Kick, wenn er jemanden verletzt. Außerdem stört er sich nicht am Anblick von Blut und Tod. Die Wahrscheinlichkeit, dass er eine Schlägerei beginnt, ist viermal so hoch wie bei anderen.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -49,7 +49,7 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Bloodlust",
@@ -125,7 +125,7 @@
     {
       "description": "Timmy wurde beigebracht, dass das Essen von Menschenfleisch schrecklich und falsch ist. Trotzdem hat er es einmal versucht... und es hat geschmeckt.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -141,7 +141,7 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Cannibal",
@@ -267,7 +267,7 @@
     {
       "description": "Für Timmy ist Schmerz empfinden etwas Verbotenes und gleichzeitig Erregendes. er weiß nicht warum, aber er ist halt einfach anders verdrahtet.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
         "weichei"
@@ -283,7 +283,7 @@
           "weichei"
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Masochist",
@@ -359,7 +359,7 @@
     {
       "description": "Timmy fühlt sich beleidigt, wenn sein Schlafraum nicht so imposant wie der eines anderen ist. seine Stimmung verschlechtert sich, wenn ein anderer Kolonist einen imposanteren Schlafraum hat.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
         "asket",
@@ -377,7 +377,7 @@
           "habgierig"
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Jealous",
@@ -733,7 +733,7 @@
     {
       "description": "Timmy hat kein Bedürfnis, nach draußen zu gehen oder im Hellen zu sein. er wird sich nie eingeengt fühlen oder gar einen Lagerkoller bekommen, egal wie lange er drinnen oder im Dunkeln ist.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -749,7 +749,7 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "Undergrounder",
@@ -943,7 +943,7 @@
     {
       "description": "Timmy fühlt sich von anderen Menschen entfremdet und missverstanden. er hat einen ständigen Stimmungsmalus, aber es besteht die Chance (50%), dass er nach einem Nervenzusammenbruch eine kreative Inspiration erhält.",
       "stats": [
-
+        "Morbid meditation focus type allowed."
       ],
       "conflicts": [
 
@@ -959,7 +959,7 @@
 
         ],
         "stats": [
-
+          "Morbid meditation focus type allowed."
         ]
       },
       "defName": "TorturedArtist",
