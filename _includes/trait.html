@@ -22,7 +22,7 @@
         
         {%- if site.store.traits.usage -%}
             {%- for event in include.traitEvents -%}
-                <br/>
+                
                 <span class="metadata">
                     {% capture usage %}
                         {{ include.buyName }} {{ event }} {{ include.trait.name }}

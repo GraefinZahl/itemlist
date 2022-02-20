@@ -11,7 +11,7 @@
 
         {%- if site.store.kinds.usage -%}
             {%- for pawn in include.pawnEvents -%}
-                <br/>
+                
                 <span class="metadata">
                     {% capture usage %}
                         {{ include.buyName }} {{ pawn }} {{ include.kind.name }}
