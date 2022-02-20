@@ -48,21 +48,17 @@ permalink: /commands
                         <td id="{{- command.name | slugify -}}">
                             <a href="#{{- command.name | slugify -}}">{{- command.name -}}</a>
 
-                            {%- if site.commands.mod -%}
-                                <br/>
-                                <span class="metadata">
-                                    {{- site.data.language.from | replace: '%s', command.data.mod -}}
-                                </span>
-                            {%- endif -%}
+                            <!-- {%- if site.commands.mod -%} -->
+                                <!-- <br/> -->
+                                <!-- <span class="metadata"> -->
+                                    <!-- {{- site.data.language.from | replace: '%s', command.data.mod -}} -->
+                                <!-- </span> -->
+                            <!-- {%- endif -%} -->
 
                             {%- if site.commands.usage -%}
-                                <br/>
+                                
                                 <span class="metadata">
-                                    {% capture usage %}
-                                        {{ command.usage | prepend: " " | replace: "(", "&lt;" | replace: ")", "&gt;" }}
-                                    {% endcapture %}
-
-                                    {{- site.data.language.usage | replace: '%s', usage -}}
+                                    [{{ command.usage | prepend: " " | replace: "(", "&lt;" | replace: ")", "&gt;" }}]
                                 </span>
                             {%- endif -%}
                         </td>

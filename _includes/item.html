@@ -20,13 +20,9 @@
 
 
         {%- if site.store.items.usage -%}
-            <br/>
+            
             <span class="metadata">
-                {% capture usage %}
-                    {{ include.buyName }} {{ name }} 1
-                {% endcapture %}
-
-                {{- site.data.language.usage | replace: '%s', usage -}}
+                [{{ include.buyName }} {{ name }} 1]
             </span>
         {%- endif -%}
     </td>
