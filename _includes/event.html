@@ -2,16 +2,16 @@
     <td>
         {{- include.event.abr -}}
 
-        {%- if site.store.events.mod -%}
-            <br/>
-            <span class="metadata">
-                {% capture mod %}
-                    {{ site.data.language.from | replace: '%s', include.eventdata.Mod }}
-                {% endcapture %}
+        <!-- {%- if site.store.events.mod -%} -->
+            <!-- <br/> -->
+            <!-- <span class="metadata"> -->
+                <!-- {% capture mod %} -->
+                    <!-- {{ site.data.language.from | replace: '%s', include.eventdata.Mod }} -->
+                <!-- {% endcapture %} -->
 
-                {{- mod -}}
-            </span>
-        {%- endif -%}
+                <!-- {{- mod -}} -->
+            <!-- </span> -->
+        <!-- {%- endif -%} -->
 
         {%- if site.store.events.usage -%}
             <br/>

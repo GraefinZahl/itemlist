@@ -2,16 +2,16 @@
     <td>
         {{- include.trait.name -}}
 
-        {%- if site.store.traits.mod -%}
-            <br/>
-            <span class="metadata">
-                {% capture mod %}
-                    {{ site.data.language.from | replace: '%s', include.trait.data.mod }}
-                {% endcapture %}
+        <!-- {%- if site.store.traits.mod -%} -->
+            <!-- <br/> -->
+            <!-- <span class="metadata"> -->
+                <!-- {% capture mod %} -->
+                    <!-- {{ site.data.language.from | replace: '%s', include.trait.data.mod }} -->
+                <!-- {% endcapture %} -->
 
-                {{- mod -}}
-            </span>
-        {%- endif -%}
+                <!-- {{- mod -}} -->
+            <!-- </span> -->
+        <!-- {%- endif -%} -->
 
         {%- if site.store.traits.limit and trait.data.canBypassLimit -%}
             <br/>

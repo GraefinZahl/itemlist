@@ -2,12 +2,12 @@
     <td>
         {{- include.kind.name -}}
 
-        {%- if site.store.kinds.mod -%}
-            <br/>
-            <span class="metadata">
-                {{- site.data.language.from | replace: '%s', include.kind.data.mod -}}
-            </span>
-        {%- endif -%}
+        <!-- {%- if site.store.kinds.mod -%} -->
+            <!-- <br/> -->
+            <!-- <span class="metadata"> -->
+                <!-- {{- site.data.language.from | replace: '%s', include.kind.data.mod -}} -->
+            <!-- </span> -->
+        <!-- {%- endif -%} -->
 
         {%- if site.store.kinds.usage -%}
             {%- for pawn in include.pawnEvents -%}
