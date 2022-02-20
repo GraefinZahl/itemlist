@@ -14,13 +14,9 @@
         <!-- {%- endif -%} -->
 
         {%- if site.store.events.usage -%}
-            <br/>
+            
             <span class="metadata">
-                {% capture usage %}
-                    {{ include.buyName}} {{ include.event.abr }}
-                {% endcapture %}
-
-                {{- site.data.language.usage | replace: '%s', usage -}}
+                [{{ include.buyName}} {{ include.event.abr }}]
             </span>
         {%- endif -%}
     </td>
