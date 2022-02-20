@@ -10,7 +10,7 @@ title: Store
 
 {%- assign itemsForDisplay = '' | split: ',' -%}
 {%- assign eventsForDisplay = site.data.StoreIncidents.incitems | where_exp: "incident", "incident.price > 0" | sort: "abr" -%}
-{%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Animal" | where_exp: "animal", "animal.price > 0" | sort: "abr" -%}
+{%- assign animalsForDisplay = site.data.StoreItems.items | where: "category", "Tiere" | where_exp: "animal", "animal.price > 0" | sort: "abr" -%}
 {%- assign traitsForDisplay = '' | split: ',' -%}
 {%- assign kindsForDisplay = site.data.ShopExt.races | where: "enabled", "true" | sort: "name" -%}
 {%- assign weaponsForDisplay = '' | split: ',' -%}
@@ -25,7 +25,7 @@ title: Store
         {%- continue -%}
     {%- endif -%}
 
-    {%- if item.category != "Animal" -%}
+    {%- if item.category != "Tiere" -%}
         {%- assign itemsForDisplay = itemsForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
     {%- endif -%}
@@ -131,7 +131,7 @@ title: Store
 
     {%- include store_tab.html
         id='animals'
-        type='Animal'
+        type='Tiere'
         buyName=buy
         headers=headers
         priceDataHeaders=site.data.language.cost_header
